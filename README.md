@@ -68,3 +68,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Site is deployed on New platform: https://vercel.com/new/suyashgupta007s-projects/success?developer-id=&external-id=&redirect-url=&branch=main&deploymentUrl=new-portfolio-8curp0eoy-suyashgupta007s-projects.vercel.app&projectName=new-portfolio&s=https%3A%2F%2Fgithub.com%2FSuyashGupta007%2Fnew_portfolio&gitOrgLimit=&hasTrialAvailable=1&totalProjects=1
